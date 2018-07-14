@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-14T06:46:34Z" name="Default suite" finished-at="2018-07-14T06:46:49Z" duration-ms="15217">
+    <groups>
+    </groups>
+    <test started-at="2018-07-14T06:46:34Z" name="Default test" finished-at="2018-07-14T06:46:49Z" duration-ms="15217">
+      <class name="com.extentreportscreenshot.FreeCRMExtentreportTest">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425]" started-at="2018-07-14T06:46:34Z" name="setExtent" finished-at="2018-07-14T06:46:35Z" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425]" started-at="2018-07-14T06:46:35Z" name="setUp" finished-at="2018-07-14T06:46:47Z" duration-ms="12755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCRMTitleTest()[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425]" started-at="2018-07-14T06:46:47Z" name="verifyCRMTitleTest" finished-at="2018-07-14T06:46:47Z" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCRMTitleTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425]" started-at="2018-07-14T06:46:47Z" name="tearDown" finished-at="2018-07-14T06:46:49Z" duration-ms="1285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCRMTitleTest status=SUCCESS method=FreeCRMExtentreportTest.verifyCRMTitleTest()[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.extentreportscreenshot.FreeCRMExtentreportTest@175b9425]" started-at="2018-07-14T06:46:49Z" name="endReport" finished-at="2018-07-14T06:46:49Z" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.extentreportscreenshot.FreeCRMExtentreportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
